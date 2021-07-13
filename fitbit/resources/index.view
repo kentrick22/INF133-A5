@@ -1,0 +1,15 @@
+<svg viewport-fill="#8b2e5f">
+  <use id="button-1" href="#icon-button" class="medium-button application-fill plus-button">
+    <text id="button-text">1</text>
+  </use>
+  <use id="button-2" href="#icon-button" class="medium-button application-fill plus-button">
+    <text id="button-text">2</text>
+  </use>
+  <use id="button-3" href="#icon-button" class="medium-button application-fill plus-button">
+    <text id="button-text">3</text>
+  </use>
+  <text id="clock" x="50%" y="50%+15"
+      fill="white" text-anchor="middle" text-length="20">00:00:00</text>
+  <text id="converted-clock" x="50%" y="50%+65"
+      fill="white" text-anchor="middle" text-length="20">00:00:00</text>
+</svg>
